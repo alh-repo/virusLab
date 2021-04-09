@@ -1,0 +1,2 @@
+Hello user, I'm Mr. Klean.
+I am not infected because I am not a python file.
